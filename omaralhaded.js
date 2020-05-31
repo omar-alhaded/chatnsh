@@ -14,19 +14,19 @@ setprofile=function(){if(getuser(myid).rep<reqlikes){alert('لا يمكنك حف
 setTimeout (function (){   $("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;/a></div>").insertAfter($(".loginstat"));  },1000);
 $(`<img src="https://chatnsh.com/sico/z1e9l0724610.jpg" class="fr" style="width:100%;margin-right: 1px;">
 <div><marquee direction="right" width="99%" id="asim7" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="2">    اهلاوسهلاا بكم في شات قلبي مشتاق للجوال: وكل عام ونتم بخير وعيدكم مبارك  ●·  </marquee></div>
-<div id="asim10"><a id="asim21" href="" target="" type="button" style=" width: 24%; margin: 2px;" class="btn-as">اتصل بنا</a>
-<a id="asim21" href="" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">التطبيق</a>
-<a id="asim21" href="" target="" type="button" style=" width: 24%; margin: 2px;" class="btn-as">وظائف شاغره</a>
-<a id="asim21" href="" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">اختصارات</a><a id="asim22" href="" target="1" type="1" style=" width: 24%; margin: 2px;" class="btn-as">اشتراكات</a>
-<a id="asim22" href="" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">زخرفة</a>
-<a id="asim22" href="" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">ق.السوبر</a>
-<a id="asim22" href="" target="#" type="button" style=" width: 24%; margin: 2px;" class="btn-as">الأبراج</a>
+<div id="asim10"><a id="asim21" href="https://rawcdn.githack.com/ommmarax/chatnsh/92a51f664dd3e4d740b914428b8722a5afe056ab/omaralhaded.html" target="" type="button" style=" width: 24%; margin: 2px;" class="btn-as">اتصل بنا</a>
+<a id="asim21" href="https://rawcdn.githack.com/ommmarax/chatnsh/92a51f664dd3e4d740b914428b8722a5afe056ab/omaralhaded.html" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">التطبيق</a>
+<a id="asim21" href="https://rawcdn.githack.com/ommmarax/chatnsh/92a51f664dd3e4d740b914428b8722a5afe056ab/omaralhaded.html" target="" type="button" style=" width: 24%; margin: 2px;" class="btn-as">وظائف شاغره</a>
+<a id="asim21" href="https://rawcdn.githack.com/ommmarax/chatnsh/92a51f664dd3e4d740b914428b8722a5afe056ab/omaralhaded.html" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">اختصارات</a><a id="asim22" href="" target="1" type="1" style=" width: 24%; margin: 2px;" class="btn-as">اشتراكات</a>
+<a id="asim22" href="https://rawcdn.githack.com/ommmarax/chatnsh/92a51f664dd3e4d740b914428b8722a5afe056ab/omaralhaded.html" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">زخرفة</a>
+<a id="asim22" href="https://rawcdn.githack.com/ommmarax/chatnsh/92a51f664dd3e4d740b914428b8722a5afe056ab/omaralhaded.html" target="_blank" type="button" style=" width: 24%; margin: 2px;" class="btn-as">ق.السوبر</a>
+<a id="asim22" href="https://rawcdn.githack.com/ommmarax/chatnsh/92a51f664dd3e4d740b914428b8722a5afe056ab/omaralhaded.html" target="#" type="button" style=" width: 24%; margin: 2px;" class="btn-as">الأبراج</a>
 `).insertBefore(".nav-tabs")
 $(".nav-tabs").addClass("fl").css("width","100%")
 $(".tc span[class=\"fa fl\"]").addClass("fa-check");
 var nopm=!0,nonot=!0;
 $(".hand.nosel.fl.uzr.border").css({margin:"1px 0",borderRadius:"0px"})
-$(".fa-gear").text(" الضبط").css("width",""); 
+$(".fa-gear").text(" الاعدادات ").css("width",""); 
 $(`<link rel="stylesheet" href="https://rawcdn.githack.com/ommmarax/chatnsh/4a2efa62683fef63354b8bf870ad3634a827381a/omaralhaded.css">
 </style>
 `).insertBefore("body");
