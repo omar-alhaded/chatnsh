@@ -1,6 +1,3 @@
-$(`<img tabindex="0" class="al120 fl " style="margin-left: -3px; padding:6px; width:42px;margin-top: -2px;" src="https://chatnsh.com/room.png?1" data-original-title="" title="">`)
-    .insertAfter('img.fl.nosel.emobox');
-
 $("div#tlogins button.btn.btn-primary").click(function(){
 var myVar = setInterval(function(){ var usmsgw = $(".pmsgc").length;if(usmsgw > 0){
    $(`
