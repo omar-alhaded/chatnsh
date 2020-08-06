@@ -5,11 +5,11 @@ $("div#tlogins button.btn.btn-primary").click(function(){
 var myVar = setInterval(function(){ var usmsgw = $(".pmsgc").length;if(usmsgw > 0){
    $(`
     <div class="uzr fl corner borderg mm" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:white;">
-      <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(https://chatnsh.com/sico/z1e9imhdhu10.png);" class="fl fitimg hand u-pic    ">
+      <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(https://wlhchat.com/sico/z1ef10ljv610.jpg);" class="fl fitimg hand u-pic    ">
       <div class="uzr fl" style="padding:0px;width:80%">
         <div style="padding:0px;width:100%;" class="fl">
-          <img class="fl u-ico" alt="" src="">
-          <span style="padding: 1px 8px; margin-top: 2px; display: block; max-width: 82%; border-radius: 3px; color: rgb(199, 103, 48);" class="corner nosel u-topic dots fl hand">‎.!   Omar AL-Haded  </span>
+          <img class="fl u-ico" alt="" src="https://wlhchat.com/sico/z1eevkq7gs10.gif">
+          <span style="padding: 1px 8px; margin-top: 2px; display: block; max-width: 82%; border-radius: 3px; color: rgb(199, 103, 48);" class="corner nosel u-topic dots fl hand">‎.! L(e)EN  </span>
         </div>
         <br>
         <div style="padding: 0px; width: 100%; color: rgb(60, 0, 255);" class=" u-msg   break  fl">
@@ -22,7 +22,7 @@ clearInterval(myVar);
 }else{console.log(usmsgw)} }, 2000);
 })
  
-$(`<a id="AL-HADED" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a><img id="Omar_AL-HADED70"src="https://chatnsh.com/sico/z1ef103tgh10.jpg"style="width:100%"><a id="Omar_AL-HADED27"target="_blank"type="a"rel="nofollow"title=""href="https://www.chatnsh.com"class="label-primary">Programming by Omar ALHaded </a></div></div><center>`).insertBefore(".nav-tabs"),$(".nav-tabs").addClass("fl").css("width","100%"),
+$(`<a id="AL-HADED" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a><img id="Omar_AL-HADED70"src="https://wlhchat.com/sico/z1ef10i4uk10.jpg"style="width:100%"><a id="Omar_AL-HADED27"target="_blank"type="a"rel="nofollow"title=""href="https://www.chatnsh.com"class="label-primary">Programming by Omar ALHaded </a></div></div><center>`).insertBefore(".nav-tabs"),$(".nav-tabs").addClass("fl").css("width","100%"),
 $(`<center><div id="ALHADED">
 <a id="Omar_AL-HADED7"rel="dofollow" title="القوانين" href=""style="border-radius: 0 4px 0 0; border-right: 2px solid#f7d322;"class="fl mini  fa fa-bullhorn btn btn-primary" target="_blank"></a>
 <a id="Omar_AL-HADED7"rel="dofollow" title="الاشتراكات" href=""style="border-right: 1px solid#fff;"class="fl mini  fa fa-star-half-o btn btn-primary" target="_blank"></a>
