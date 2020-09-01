@@ -135,7 +135,7 @@ div#tlogins .uzr{
     </style>
 `).insertBefore('.nav-tabs');$('a.fr.primaryborder.btn.btn-default,label.fl.label.loginstat, label.label.label-primary.mini.fr,.fr.borderg,label.fl.label.loginstat, span.s1.fa.fa-user.label.badgex.label-as-badge.label-success,.fr.borderg a,ul.nav.nav-tabs li a, ul.nav.nav-tabs li a:hover, ul.nav.nav-tabs li :focus,marquee.label-primary.fl span').css({'color':$('a.label.label-primary.fl').css('background-color')})
 $('.lonline.light.break').addClass('label-primary')
-$('.fr.borderg a').text('DookMobail')
+$('.fr.borderg').text('JawalHost')
 $(window).resize();setTimeout(function(){$('a.fr.primaryborder.btn.btn-default,label.fl.label.loginstat, label.label.label-primary.mini.fr,.fr.borderg,label.fl.label.loginstat, span.s1.fa.fa-user.label.badgex.label-as-badge.label-success,.fr.borderg a,ul.nav.nav-tabs li a, ul.nav.nav-tabs li a:hover, ul.nav.nav-tabs li :focus,marquee.label-primary.fl span').css({'color':$('a.label.label-primary.fl').css('background-color')})
 $(window).resize()},1000)
 setTimeout(function(){$(window).resize()},2000)
