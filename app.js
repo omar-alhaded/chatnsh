@@ -251,7 +251,22 @@ function load() //d
         refreshonline();
     }, 250);
 }
-
+function openSco(id){
+	var  dsed =$("<div><div class='form'><input dir='rtl' value='' name='name' autocomplete='off' required><label for='name' class='label-name'><span class='content-name'>اضف رد لا يزيد عن 100 حرف</span></label></div><button onclick='send(\"sco\",{bid:\""+id+"\",c:$(this).parent().find(\"input\").val()});$(\"#d2bc .sco\").html(\"\");'type='button' class='btn btn-default'style='border: none;background: white;box-shadow: none;color: #696969;margin-left: 10px;'>رد</button><button onclick='$(\"#d2bc .sco\").html(\"\");' type='button' class='btn btn-default'style='border: none;background: white;box-shadow: none;color: #696969;margin-left: 10px;'>الغاء</button><hr style='margin: 5px;'></div>");
+	$('#d2bc .sco').html('');
+	var a = $('.bid'+id +' .sco').html(dsed).show();
+	a.find('input').val('')
+}
+$('<div class="typing" style="width: 40%;text-align: center;position: absolute;top: 30px;height: 27px;background-color: white;padding: 0px;right: 30px;"><img style="height: 57px;margin-top: -2px;margin-left: 18px;" src="imgs/icon.gif"><span style="">يكتب الان</span></div>').insertAfter(".w" + data+" .head")
+				}
+    break;
+   case "stopTyping":
+				var v = $(".w" + data).css('display');
+				var l = $("#c" + data).length;
+				if(v && l > 0 ){$(".w" + data+" .typing").remove();}
+    break;
+			case "server":
+				$('.s1').removeClass('label-warning').addClass('label-success').text(data.online);
 function send(cmd, data) {
     socket.emit('msg', { cmd: cmd, data: data });
 }
