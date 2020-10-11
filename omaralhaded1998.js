@@ -1,3 +1,8 @@
+$('.checkbox label').html(`<input id="stealth" type="checkbox" value="" maxlength="10"><i class="fa fa-eye-slash" aria-hidden="true">`)
+$(".ae.label.label-primary.fa.fa-gear").text('  ');
+$(`<center><div style="!important; "  id="ye" margin: 2px;" class="fa fa-heartbeat label label-primary" type="button" data-toggle="collapse" data-target="#demo" aria-expanded="false" aria-controls="collapseExample">&nbsp; ● ·( sound cloud  )· ● &nbsp;</div><div class="collapse" id="demo"><center><div class="well"><p lass="bg-primary"></i></p>مُحرك بحث .. ساوند كلاود </p><iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://m.soundcloud.com"></iframe>`).insertBefore('#d2');
+$('.uzr.fl.corner.borderg').css({'margin': '0px 0',borderRight: '0px solid #ffffff',borderLeft: '0px solid #ffffff',borderTop: '.0px solid #ffffff',borderBottom: '.0px solid #ffffff',paddingTop: '3px',borderRadius: '0px 0px 0px 0px'});
+$('.nav-tabs').addClass('fl').css('width','100%');
 $('#l1 br,#l2 br,#l3 br').remove()
 $('ul.nav.nav-tabs li a,#l1 input,#l2 input,#l3 input,#l1 button,#l2 button,#l3 button,div#l1,div#l2,div#l3').addClass('primaryborder')
 $('label.label.label-primary.mini.fl').addClass('fr').removeClass('fl').css('width','auto')
